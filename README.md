@@ -1,6 +1,14 @@
 # A-Correspondence-Selection-Method-by-Updating-Compatibility-Matrix-for-Point-Cloud-Registration
 The code of the CMU method
 
-Four files are provided in this project. The “ThreeDHarris_keypoint” file is use to extract keypoints from the point clouds, which is performed by the 3D Harris keypoint detector. The “LRF_TriLCI” file is used to calculate the local reference frame (LRF). The “LOVC” file is used to calculate the LOVC descriptor. The “point cloud registration based on the LOVC and two-point RANSACWC” file uses the LOVC descriptor and two-point RANSACWC to perform the registration of point clouds. Everyone is welcome to use the code for research work, but not for commerce. If you use the code, please cite my paper (Wuyong Tao, Shaoping Xu, Wei Huang, Shufan Hu and Meng Pang, A distinctive binary descriptor and two-point RANSACWC for point cloud registration. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023, 16: 7529-7542).
+The "CMU method.m" file show how to use the CMU method. The “LRF_TriLCI” and "TriLCI" files can be found in another project. Everyone is welcome to use the code for research work, but not for commerce. If you use the code, please cite my paper(  @ARTICLE{11145875,
+  author={Tao, Wuyong and Wu, Zhiquan and Wang, Ruisheng and Hua, Xianghong and Xu, Shaoping and Chen, Zhiping and Min, Danhua},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A Correspondence Selection Method by Updating Compatibility Matrix for Point Cloud Registration}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-14},
+  doi={10.1109/TGRS.2025.3604617}}  ).
 
 Before you use the code, you need to calculate the point cloud resolution (pr).
