@@ -1,7 +1,7 @@
 # A-Correspondence-Selection-Method-by-Updating-Compatibility-Matrix-for-Point-Cloud-Registration
 The code of the CMU method
 
-The "CMU method.m" file show how to use the CMU method. The “LRF_TriLCI” and "TriLCI" files can be found in another project. Everyone is welcome to use the code for research work, but not for commerce. If you use the code, please cite my paper(  @ARTICLE{11145875,
+The "CMU method.m" file shows how to use the CMU method. The “LRF_TriLCI” and "TriLCI" files can be found in another project. Everyone is welcome to use the code for research work, but not for commerce. If you use the code, please cite my paper(  @ARTICLE{11145875,
   author={Tao, Wuyong and Wu, Zhiquan and Wang, Ruisheng and Hua, Xianghong and Xu, Shaoping and Chen, Zhiping and Min, Danhua},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={A Correspondence Selection Method by Updating Compatibility Matrix for Point Cloud Registration}, 
